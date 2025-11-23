@@ -51,7 +51,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/vrm-desktop-assistant.git
+   git clone https://github.com/Gerrald-sys/vrm-desktop-assistant.git
    cd vrm-desktop-assistant
    ```
 
